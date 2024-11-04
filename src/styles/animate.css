@@ -1,0 +1,82 @@
+.animate__delay-0ms {
+  animation-delay: 0ms;
+}
+
+.animate__delay-100ms {
+  animation-delay: 100ms;
+}
+
+.animate__delay-200ms {
+  animation-delay: 200ms;
+}
+
+.animate__delay-300ms {
+  animation-delay: 300ms;
+}
+
+.animate__delay-400ms {
+  animation-delay: 400ms;
+}
+
+.animate__delay-500ms {
+  animation-delay: 500ms;
+}
+
+.animate__delay-600ms {
+  animation-delay: 600ms;
+}
+
+.animate__delay-800ms {
+  animation-delay: 800ms;
+}
+
+.animate__delay-900ms {
+  animation-delay: 900ms;
+}
+
+.animate__delay-1000ms {
+  animation-delay: 1s;
+}
+
+.animate__delay-1200ms {
+  animation-delay: 1.2s;
+}
+
+.animate__delay-1500ms {
+  animation-delay: 1.5s;
+}
+
+.animate__delay-1600ms {
+  animation-delay: 1.6s;
+}
+
+.animate__delay-1800ms {
+  animation-delay: 1.8s;
+}
+
+.animate__delay-2000ms {
+  animation-delay: 2s;
+}
+
+.animate__delay-2400ms {
+  animation-delay: 2.4s;
+}
+
+.animate__delay-2800ms {
+  animation-delay: 2.8s;
+}
+
+.animate__delay-3200ms {
+  animation-delay: 3.2s;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 400ms ease-out, transform 400ms ease-out;
+}
+
+.fade-in.active {
+  opacity: 1;
+  transform: translateY(0);
+}
